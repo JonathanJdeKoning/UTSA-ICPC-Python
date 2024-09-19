@@ -40,7 +40,7 @@ while jonathanSanity > 0:
 ```python
 s = "SETH"
 while True:
-	if len(a) < 20:
+	if len(s) < 20:
 		s += "SETH"
 	else:
 		break
