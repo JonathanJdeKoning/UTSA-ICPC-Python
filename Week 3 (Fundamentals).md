@@ -36,8 +36,22 @@ while jonathanSanity > 0:
 	jonathanSanity -= 1
 	print(jonathanSanity)
 ```
+### Conditionals
+```python
+s = "SETH"
+while True:
+	if len(a) < 20:
+		s += "SETH"
+	else:
+		break
+print(s)
+```
 ### Misc.
 ```python
+# Check length of variable
+var = "hiya"
+print(len(var))
+
 # Check if a is in b
 a = "magentadaffodil"
 b = "tada"
