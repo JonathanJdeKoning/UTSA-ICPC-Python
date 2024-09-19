@@ -1,1 +1,1 @@
-"# UTSA-ICPC-Python" 
+# UTSA-ICPC-Python
